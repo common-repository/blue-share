@@ -1,0 +1,60 @@
+/* Link styles */
+.blue-share {
+	font-size: 13px;
+	color: #555;
+}
+.bs-active {
+	cursor: pointer;
+}
+.bs-active img {
+	vertical-align: middle;
+}
+
+/* Form styles */
+.bs-form h2 {
+	text-align: center;
+}
+
+.bs-label, .bs-input {
+	padding: 10px;
+	color: #333;
+	text-align: right;
+	font-size: 14px;
+	width: 140px;
+	float: left;
+}
+.bs-input {
+	text-align: left;
+}
+.bs-input input {
+	width: 170px;
+}
+.bs-error {
+	color: #F00;
+	width: 100%;
+	font-size: 14px;
+	text-align: center;
+}
+.bs-buttons input {
+	width: 80px;
+	margin: 5px 20px;
+}
+.bs-result {
+	font-size: 14px;
+	text-align: center;
+	margin-top: 40px;
+}
+.bs-close {
+	position: absolute;
+        bottom: 20px;
+	left: auto;
+	width: 400px;
+}
+.bs-clear {
+	clear: both;
+}
+
+/* Overrides */
+.overlay_alphacube {
+        background-color: #171;
+}
